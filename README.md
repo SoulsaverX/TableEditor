@@ -3,7 +3,7 @@
 #### Screenshot
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/evozi/SoulSaverX/TableReader/master/screenshot.png" alt="UI">
+    <img src="https://github.com/SoulsaverX/TableEditor/blob/main/screenshot.png" alt="UI">
 </p>
 
 #### Develop
