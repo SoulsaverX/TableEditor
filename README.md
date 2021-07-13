@@ -1,9 +1,5 @@
 # Table Reader
 
-#### Download
-
-Download the [latest release].
-
 #### Screenshot
 
 <p align="center">
