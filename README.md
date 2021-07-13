@@ -1,5 +1,9 @@
 # Table Reader
 
+#### About
+TableEditor is Tool for Read / Edit .tbl file for GhostOnline / SoulSaverOnline
+
+
 #### Screenshot
 
 <p align="center">
